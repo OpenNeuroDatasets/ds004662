@@ -3,3 +3,4 @@ Neha A. Reddy, Kristina M. Zvolanek, Stefano Moia, Cesar Caballero-Gaudes, Molly
 
 Release history:
 08/06/2023: initial upload
+10/30/2023: addition of hand-grasp and end-tidal CO2 regressors
